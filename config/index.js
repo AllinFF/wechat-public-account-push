@@ -7,11 +7,13 @@ export const config = {
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
   APP_ID: "wx2ac7677c121bd8ac",
+  //APP_ID: "wx920fc7a94c5332b9",
 
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
   APP_SECRET: "e933ebcaee7d050ee608ebd796b5aab2",
+  //APP_SECRET: "7ba80e8a0be6dcf083fc68d90c1c0f67",
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -27,7 +29,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oFpn16JoDgjsRnBwCxu6H13LRRSI",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "SZHZJzfxusJ5dLe5B4vRk8GpXROKYB3ecmjk9lIFjqI",
+      useTemplateId: "-xb506c0L01rMSXfIbnd9_m6PLxbcXfLMXRxJq3Ylj0",
       // 所在省份
       province: "浙江",
       // 所在城市
